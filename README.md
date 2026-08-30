@@ -14,7 +14,7 @@
 - **GitHub username: AnthonyOsorio**
 - **Git installed: yes**
 ## Notes to future me 
-
+- I created an authentication code
 ## Terminal commands I learned
 - pwd
 - ls
