@@ -15,6 +15,7 @@
 - **Git installed: yes**
 ## Notes to future me 
 - I created an authentication code
+- im understanding git more
 ## Terminal commands I learned
 - pwd
 - ls
