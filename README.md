@@ -21,4 +21,7 @@
 - ls
 - cd
 - mkdir
-
+## My goals for this course
+-learn git
+-make projects
+-gain applicable experience
