@@ -21,7 +21,8 @@
 - ls
 - cd
 - mkdir
-## My goals for this course
--learn git
--make projects
--gain applicable experience
+## Tools I have installed 
+-  Git
+-  Intellij IDEA Community Edition
+-  Andriod Studio
+-  Vs Code
