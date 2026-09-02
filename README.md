@@ -22,7 +22,7 @@
 - cd
 - mkdir
 ## Tools I have installed 
-- [ ] Git
-- [ ] Intellij IDEA Community Edition
-- [ ] Andriod Studio
-- [ ] Vs Code
+-  Git
+-  Intellij IDEA Community Edition
+-  Andriod Studio
+-  Vs Code
