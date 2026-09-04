@@ -29,5 +29,5 @@
 -  Andriod Studio
 -  Vs Code
 ## Status 
-Just getting started.
+Learning Git and feeling good about it.
 
