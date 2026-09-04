@@ -17,6 +17,7 @@
 - I created an authentication code
 - im understanding git more
 - pulling is important 
+- using status helps
 ## Terminal commands I learned
 - pwd
 - ls
