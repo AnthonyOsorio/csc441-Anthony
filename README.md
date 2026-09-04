@@ -28,3 +28,6 @@
 -  Intellij IDEA Community Edition
 -  Andriod Studio
 -  Vs Code
+## Status 
+Just getting started.
+
