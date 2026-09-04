@@ -29,5 +29,5 @@
 -  Andriod Studio
 -  Vs Code
 ## Status 
-Learning Git and feeling good about it.
+Learning Git. Branches make sense now; merge conflicts are next.
 
