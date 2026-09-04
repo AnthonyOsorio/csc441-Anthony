@@ -29,5 +29,6 @@
 -  Andriod Studio
 -  Vs Code
 ## Status 
-Just getting started.
+Working through branches. Slightly confused but getting there.
+
 
