@@ -1,7 +1,7 @@
 package week3fri
 
 fun main() {
-    for (i in 1..10) { print(" $i") }
+    for (i in 1..5) { print(" $i") }
     println()
 
 for (i in 20 downTo 1 step 3) { print(" $i") }
@@ -11,8 +11,8 @@ for (i in 20 downTo 1 step 3) { print(" $i") }
     for (item in tripList ) {
         println(item)
     }
-
-
+for ( i in 0  until tripList.size)
+    println(i)
 tripList.forEachIndexed { index, item ->
     println("$item")
 }
